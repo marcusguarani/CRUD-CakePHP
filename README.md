@@ -1,3 +1,3 @@
-# development_practice_cake
+# Prática usando CakePHP
 
 alguns recursos como crud, sessão, verificação etc.
